@@ -13,7 +13,7 @@ public class Result {
      */
     private String message;
     /**
-     * 响应结果对象
+     * 响应结果对象:d
      */
     private Object data;
 
