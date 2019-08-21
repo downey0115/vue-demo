@@ -12,7 +12,7 @@ public enum ResultCode {
     FAIL(400),
 
     /**
-     * 未认证（签名错误）
+     * 未认证（签名错误）dddd
      */
     UNAUTHORIZED(401),
 
